@@ -1,1 +1,9 @@
-{}
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "env": 
+    {
+        "baseUrl":"https://github.com/login",
+        "user_name": "eduarda.bregenski@fretefy.com.br",
+        "user_password": "@402018Madu"
+    }
+}
